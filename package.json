@@ -1,4 +1,7 @@
 {
   "name": "OlaNode",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
