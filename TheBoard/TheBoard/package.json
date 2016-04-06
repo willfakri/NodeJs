@@ -1,0 +1,14 @@
+{
+  "name": "TheBoard",
+  "version": "0.0.0",
+  "description": "TheBoard",
+  "main": "server.js",
+  "author": {
+    "name": "wfakri",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "underscore": "^1.8.3"
+  }
+}
